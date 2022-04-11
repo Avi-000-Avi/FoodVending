@@ -1,0 +1,35 @@
+[{  "id":1,
+	"name": "Product 1",
+	"price": "99",
+	"info": "This is the latest and greatest product from Derp corp.",
+	"image": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+},{ "id":2,
+	"name": "Product 2",
+	"price": "100",
+    "info": "This is the latest and greatest product from Derp corp.",
+	"image": "http://placehold.it/300x300/999/CCC"
+},{
+    "id":3,
+	"name": "Product 3",
+	"price": "150",
+    "info": "This is the latest and greatest product from Derp corp.",
+	"image": "http://placehold.it/300x300/999/CCC"
+},{
+    "id":4,
+	"name": "Product 4",
+	"detail":"Lorem ipsum dolor sit amet",
+	"price": "200",
+	"image": "https://b.zmtcdn.com/data/pictures/3/19577573/969059f08b01352b18efa76c50b43256.jpg?output-format=webp"
+},{
+    "id":5,
+	"name": "Product 5",
+	"price": "99",
+    "info": "This is the latest and greatest product from Derp corp.",
+	"image": "https://b.zmtcdn.com/data/pictures/chains/4/2900564/c15ea1b115abc9d27528bf55a8c8c628.jpg?output-format=webp"
+},{
+    "id":6,
+	"name": "Product 6",
+	"price": "50",
+	"info": "This is the latest and greatest product from Derp corp.",
+	"image": "http://placehold.it/300x300/999/CCC"
+}]
