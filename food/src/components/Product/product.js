@@ -3,6 +3,9 @@ import { Card, CardMedia, CardContent, CardActions, Typography, IconButton } fro
 import { Link ,useParams} from "react-router-dom";
 import products from '../../utils/products.json';
 
+const ProductDetails = () => {
+  
+}
 
 
 const Product = ({ product }) => {

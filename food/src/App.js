@@ -1,5 +1,6 @@
 import { Routes,Route } from 'react-router-dom';
 import Products from './components/products';
+import ProductDetails from './components/Product/productDetail';
 
 function App() {
   return (
