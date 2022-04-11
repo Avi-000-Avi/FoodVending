@@ -10,7 +10,7 @@ const ProductDetails = () => {
       <div>
           <h1>{thisProduct.name}</h1>
           <p>Price: ${thisProduct.price}</p>
-          <p>{thisProduct.description}</p>
+          <p>{thisProduct.info}</p>
       </div>
   )
   }
