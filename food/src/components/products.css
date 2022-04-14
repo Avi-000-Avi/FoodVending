@@ -1,0 +1,10 @@
+.card {
+  box-shadow: 50px 50px 50px 35px gray;
+  width: 90%;
+  height: 80%;
+  margin: 0 auto;
+}
+
+h1 {
+  font-size: 100px;
+}
